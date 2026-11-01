@@ -1,0 +1,11 @@
+{
+  "appId": "com.bombinator.roadofsand",
+  "appName": "Road of Sand",
+  "webDir": "www",
+  "backgroundColor": "#110d09",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
